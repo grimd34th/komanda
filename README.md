@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/grimd34th/komanda.svg)](https://travis-ci.org/grimd34th/komanda)
 <img height="150px" width="150px" src="https://raw.githubusercontent.com/mephux/komanda/master/app/styles/images/logo/komanda%20(PNG)/256x256.png">
 
 # Komanda [http://komanda.io](http://komanda.io)
